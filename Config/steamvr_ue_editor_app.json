@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.af-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "U:/Unreal Projects/AVRF - 4.26 - Manifest+Data/Advancedd1a255386ab0V7/data/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "AF-18319896 [UE Editor]"
+				}
+			}
+		}
+	]
+}
